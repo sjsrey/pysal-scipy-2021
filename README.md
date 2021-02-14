@@ -1,6 +1,6 @@
 # Spatial Data Science with PySAL @SciPy21
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pysal-scipy21-2021/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pysal-scipy-2021/main)
 
 ### Instructors
 
